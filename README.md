@@ -1,3 +1,3 @@
-Aspiring Full stack developer
-Consistently writing in Go, HTML & CSS, C++, JS, and Rust.
-Enjoy working on any project, and enjoy finding new challenges.
+Motivated student, pursuing a careering in full-stack software development. 
+Currently working with Golang, JavaScript, HTML, CSS, Python, C++, and Rust.
+I enjoy problem solving, troubleshooting, and breaking things.
